@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class F031919Source {
+public class PuzzleCombinations {
 	//The 8 puzzle throughout this program is considered in the form of a matrix and is referred to as a matrix
 	//The original state of the matrix and the current state of the matrix
 	private static char [][] matrix_org = new char[3][3];
